@@ -1,4 +1,4 @@
-# 🏪 Rossmann Store Sales Analysis
+# 🏪 Rossmann Store Sales Analysis and Forecasting
 
 ## Overview
 This project performs exploratory data analysis on Rossmann store sales data to uncover patterns, trends, and key business insights.
@@ -52,7 +52,9 @@ The dataset includes:
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+- RandomForestClassifier
+- Linear Regression
 - Jupyter Notebook  
 
 ---
